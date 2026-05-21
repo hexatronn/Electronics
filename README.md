@@ -8,6 +8,8 @@ Welcome to the **Electronics** repository! This is a comprehensive collection of
 
 Complete collection of learning materials including interactive presentations, detailed notes, and hands-on projects:
 
+|The Notes File Link| https://drive.google.com/file/d/13V6qLkJZYlQ70g3ndM3Reck3rRn1oZI2/view?usp=drive_link
+
 | # | Topic | SlideShare | Notion | Academia |
 |---|-------|-----------|--------|----------|
 | 1 | Capacitor | [🎬 SlideShare](https://www.slideshare.net/slideshow/capacitor-from-physical-principle-to-engineering-reality/287611222) | [📝 Notion](https://www.notion.so/Capacitor-3662980[...]) | - |
